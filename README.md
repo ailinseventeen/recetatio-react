@@ -1,2 +1,2 @@
-# recetatio-react
+# recetario-react
 actividad G. des de software 
